@@ -1,4 +1,4 @@
-# Section 6: Integers
+# Section 7: Integers
 See the original challenge statement here: [Modern Java - Integers](https://javabook.mccue.dev/integers/challenges)
 
 ## Challenges
