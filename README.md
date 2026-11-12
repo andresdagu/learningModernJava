@@ -62,13 +62,13 @@ This repository follows the book's structure. You can check the book's table of 
 
     *   [Section 6: Booleans](./src/main/java/me/andresdagu/section6/CHALLENGES.md) - Not, And, Or, Operator Precedence
 
-[//]: # (    *   [Section 7: Integers]&#40;./src/main/java/me/andresdagu/section7/CHALLENGES.md&#41; - Literals, Addition, Subtraction, Multiplication, Division, Remainder, Equality, Comparison, Chained Comparisons, Operator Precedence, Reassignment, Shorthands, Limits)
+    *   [Section 7: Integers](./src/main/java/me/andresdagu/section7/CHALLENGES.md) - Literals, Addition, Subtraction, Multiplication, Division, Remainder, Equality, Comparison, Chained Comparisons, Operator Precedence, Reassignment, Shorthands, Limits
 
-[//]: # (    *   [Section 8: Floating Point Numbers]&#40;./src/main/java/me/andresdagu/section8/CHALLENGES.md&#41; - Literals, Accuracy, Addition, Subtraction, Multiplication, Division, Equality, Comparison, Shorthands, NaN, Infinity, Square Root, Conversion)
+    *   [Section 8: Floating Point Numbers](./src/main/java/me/andresdagu/section8/CHALLENGES.md) - Literals, Accuracy, Addition, Subtraction, Multiplication, Division, Equality, Comparison, Shorthands, NaN, Infinity, Square Root, Conversion
 
-[//]: # (    *   [Section 9: Characters]&#40;./src/main/java/me/andresdagu/section9/CHALLENGES.md&#41; - Literals, Escape Sequences, Conversion, Unicode)
+    *   [Section 9: Characters](./src/main/java/me/andresdagu/section9/CHALLENGES.md) - Literals, Escape Sequences, Conversion, Unicode
 
-[//]: # (    *   [Section 10: Strings]&#40;./src/main/java/me/andresdagu/section10/CHALLENGES.md&#41; - Literals, Escape Sequences, Empty String, Multiline, Concatenation, Equality, Length, Access Characters)
+    *   [Section 10: Strings](./src/main/java/me/andresdagu/section10/CHALLENGES.md) - Literals, Escape Sequences, Empty String, Multiline, Concatenation, Equality, Length, Access Characters
 
 [//]: # (*   **Chapter 3: Interactive Programs**)
 
