@@ -58,9 +58,9 @@ This repository follows the book's structure. You can check the book's table of 
     *   [Section 4: First Steps](./src/main/java/me/andresdagu/section4/CHALLENGES.md) - Comments, Semicolons, Formatting
     *   [Section 5: Local Variables](./src/main/java/me/andresdagu/section5/CHALLENGES.md) - Naming, Reassignment, Delayed Assignment, Types, Final Variables, Inferred Types
 
-[//]: # (*   **Chapter 2: Data Types I**)
+*   **Chapter 2: Data Types I**
 
-[//]: # (    *   [Section 6: Booleans]&#40;./src/main/java/me/andresdagu/section6/CHALLENGES.md&#41; - Not, And, Or, Operator Precedence)
+    *   [Section 6: Booleans](./src/main/java/me/andresdagu/section6/CHALLENGES.md) - Not, And, Or, Operator Precedence
 
 [//]: # (    *   [Section 7: Integers]&#40;./src/main/java/me/andresdagu/section7/CHALLENGES.md&#41; - Literals, Addition, Subtraction, Multiplication, Division, Remainder, Equality, Comparison, Chained Comparisons, Operator Precedence, Reassignment, Shorthands, Limits)
 
